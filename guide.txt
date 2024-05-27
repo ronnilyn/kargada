@@ -1,0 +1,3 @@
+
+Pagpasa ng data galing sa website ng iba papunta sa website nyo yung "value" ang papalitan nila para mapasa yung data
+https://ctf.kargadafreightservices.com/controller/vehicleController.php?vehicle_id=value&fuel_consumption=value&added_fuel=value&maintenance=value
